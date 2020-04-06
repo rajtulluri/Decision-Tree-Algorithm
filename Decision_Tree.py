@@ -1,3 +1,5 @@
+"""Decision Tree Algorithm implemented in Python""""
+
 df = pd.read_csv('golf.csv')
 df_test = pd.read_csv('golf_test.csv')
 
