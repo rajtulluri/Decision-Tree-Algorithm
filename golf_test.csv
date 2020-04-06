@@ -1,0 +1,7 @@
+,Outlook,Temperature,Humidity,Windy,PLAY
+0,overcast,cool,normal,False,yes
+1,rainy,mild,high,True,no
+2,rainy,cool,normal,True,no
+3,sunny,hot,high,False,no
+4,sunny,mild,high,True,yes
+5,rainy,hot,normal,False,yes
